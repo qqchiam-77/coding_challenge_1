@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">coding_challenge_1</string>
+    <string name="toast_text">Toast</string>
+    <string name="zero">0</string>
+</resources>
